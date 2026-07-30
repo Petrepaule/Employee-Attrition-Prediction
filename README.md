@@ -2,8 +2,6 @@
 
 ## Data Zest | Data Science Capstone Project — Cohort 7
 
-> **Turning Data into Insights, and Insights into Impact**
-
 ---
 
 ## Project Overview
