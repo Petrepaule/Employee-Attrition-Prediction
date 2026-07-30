@@ -2,8 +2,6 @@
 
 ## Data Zest | Data Science Capstone Project — Cohort 7
 
----
-
 ## Project Overview
 
 Employee attrition is a major challenge for organisations. The loss of employees can increase recruitment costs, reduce productivity, disrupt team performance and result in the loss of valuable organisational knowledge.
