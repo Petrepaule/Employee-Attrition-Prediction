@@ -1,6 +1,6 @@
 # Employee Attrition Prediction
 
-## Data Zest | Data Science Capstone Project — Cohort 7
+## Data Zest Team | TechCrush Data Science Project | Cohort 7 |
 
 ## Project Overview
 
