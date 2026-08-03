@@ -10,7 +10,8 @@ This project investigates employee attrition using exploratory data analysis, st
 
 Using the IBM HR Analytics Employee Attrition dataset, we identify factors associated with employee turnover, develop classification models to predict employee attrition, evaluate their performance on unseen data, and translate the findings into practical employee-retention recommendations.
 
-The project was developed collaboratively by **Data Zest** as part of the **Data Science Capstone Project — Cohort 7**.
+The project was developed collaboratively by **Data Zest members** ( Peterpaul Chideraa Ezeazodosiaku @Petrepaule (Team Lead), Juliet Oghenekevwe Ehwebayire @julietee111, Jeremiah Ochei Alika @Jamalchat, Nkwocha Eberechukwu David @David-aloca2005, Olaniyi Michael @olaniyimykel, Chiamaka Joyce Obasi @ChiamakaObasi, Uchechukwu Samson Okechukwu @Uchechukwu9, Nkemdirim Lynda Chioma @chiomankemdirim1-lang, Yusuf Abdul Wasiuand Ayomide Ali U) 
+as part of **TechCRUSH Data Science Capstone Project — Cohort 7**.
 
 ---
 
