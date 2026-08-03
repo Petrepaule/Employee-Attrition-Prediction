@@ -12,14 +12,14 @@ This project was developed collaboratively by Data Zest as part of the TechCRUSH
 
 ### Team Members
 
-- Peterpaul Chideraa Ezeazodosiaku — @Petrepaule (Team Lead)
-- Juliet Oghenekevwe Ehwebayire — @julietee111
-- Jeremiah Ochei Alika — @Jamalchat
-- Nkwocha Eberechukwu David — @David-aloca2005
-- Olaniyi Michael — @olaniyimykel
-- Chiamaka Joyce Obasi  — @ChiamakaObasi
-- Uchechukwu Samson Okechukwu — @Uchechukwu9
-- Nkemdirim Lynda Chioma — @chiomankemdirim1-lang
+- Peterpaul Chideraa Ezeazodosiaku (Team Lead) – [@Petrepaule](https://github.com/Petrepaule)
+- Juliet Oghenekevwe Ehwebayire – [@julietee111](https://github.com/julietee111)
+- Jeremiah Ochei Alika – [@Jamalchat](https://github.com/Jamalchat)
+- Nkwocha Eberechukwu David – [@David-aloca2005](https://github.com/David-aloca2005)
+- Olaniyi Michael – [@olaniyimykel](https://github.com/olaniyimykel)
+- Chiamaka Joyce Obasi – [@ChiamakaObasi](https://github.com/ChiamakaObasi)
+- Uchechukwu Samson Okechukwu – [@Uchechukwu9](https://github.com/Uchechukwu9)
+- Nkemdirim Lynda Chioma – [@chiomankemdirim1-lang](https://github.com/chiomankemdirim1-lang)
 - Yusuf Abdul Wasiu
 - Ayomide Ali U
 
