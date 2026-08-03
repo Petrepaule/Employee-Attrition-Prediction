@@ -10,15 +10,16 @@ Using the IBM HR Analytics Employee Attrition dataset, we identified factors ass
 
 This project was developed collaboratively by Data Zest as part of the TechCRUSH Data Science Capstone Project – Cohort 7.
 
-Team Members
-- Peterpaul Chideraa Ezeazodosiaku (@Petrepaule) — Team Lead
-- Juliet Oghenekevwe Ehwebayire (@julietee111)
-- Jeremiah Ochei Alika (@Jamalchat)
-- Nkwocha Eberechukwu David (@David-aloca2005)
-- Olaniyi Michael (@olaniyimykel)
-- Chiamaka Joyce Obasi (@ChiamakaObasi)
-- Uchechukwu Samson Okechukwu (@Uchechukwu9)
-- Nkemdirim Lynda Chioma (@chiomankemdirim1-lang)
+### Team Members
+
+- Peterpaul Chideraa Ezeazodosiaku — @Petrepaule (Team Lead)
+- Juliet Oghenekevwe Ehwebayire — @julietee111
+- Jeremiah Ochei Alika — @Jamalchat
+- Nkwocha Eberechukwu David — @David-aloca2005
+- Olaniyi Michael — @olaniyimykel
+- Chiamaka Joyce Obasi  — @ChiamakaObasi
+- Uchechukwu Samson Okechukwu — @Uchechukwu9
+- Nkemdirim Lynda Chioma — @chiomankemdirim1-lang
 - Yusuf Abdul Wasiu
 - Ayomide Ali U
 
